@@ -1,27 +1,16 @@
 <h1 align="center">Hi 👋, I'm Arora</h1>
-<h3 align="center">a writer who procrastinate writing by making websites</h3>
+<h3 align="center">a writer who procrastinates writing by making websites</h3>
 
 ## 🔭 The story I am currently working on
 
-### Project: Bortherhood
-Think of it as a quiet companion for women navigating PMOS — part health tracker, part early-warning system, all built with care.
-
-**What it actually does:** a trained ML model keeps an eye out for PMOS risk (Low, Medium, High) while patients log their cycles, moods, and symptoms day to day — so nothing gets forgotten between doctor visits.
-
-**Built with:** React up front, Flask + MariaDB doing the heavy lifting behind the scenes, and Scikit-learn as the brain of the operation 🧠
-
-**Three ways in:**
-- 🩺 **Patients** get a screening tool, cycle tracking, a clinic finder, and even a few gamified quests to keep things from feeling clinical
-- 👩‍⚕️ **Doctors** get a clear window into each patient's history, notes and all
-- 📊 **Admins** get the bird's-eye view — KPIs, trends, the whole picture
-
-**Proudest moment:** 🥈 Silver Medal, DIGITEX 2026
+### Project: Brotherhood
+### Kanvas Kelabu
 
 ## 🌐 Socials:
 
 <div align="center">
-  <a href="(https://www.instagram.com/writingwitharora/)">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://www.instagram.com/writingwitharora/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:a.aurora.writes@gmail.com">
