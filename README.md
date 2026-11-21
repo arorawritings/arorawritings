@@ -11,19 +11,28 @@
 
 ## 🖊 Currently Writing
 
-### 🤖 Brotherhood
-`Historical Steampunk` · `2nd attempt drafting` <br/><br/>
-**Progress:** `▓▓░░░░░░░░ 30%` · Chapter 7 · 19k words <br/>
-**Mood:** 🔧 *Fueled by tiredness, sad songs and discord sessions*<br/>
-**[Read more →]([https://your-link-here](https://ellipsus.com/profile/AcCCgqIG4jorDuCivk4Ca))**
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
----
+### 🤖 Brotherhood
+`Historical Steampunk` · `2nd attempt drafting`<br/><br/>
+**Progress:** `▓▓▓░░░░░░░ 30%` · Chapter 7 · 19k words<br/>
+**Mood:** 🔧 *Fueled by tiredness, sad songs and discord sessions*<br/>
+**[Read more →](https://ellipsus.com/profile/AcCCgqIG4jorDuCivk4Ca)**
+
+</td>
+    <td width="50%" valign="top">
 
 ### 🎨 Kanvas Kelabu
-`Historical Fantasy` · `Re-plotting, attempt #12` <br/><br/>
-**Progress:** `▓░░░░░░░░░ 5%` · Plot v12 <br/>
-**Mood:** 🌫️ *Somewhere between "I have a plan" and "what if I change everything"* <br/>
-**[Read more (cannot yet) →]**
+`Historical Fantasy` · `Re-plotting, attempt #12`<br/><br/>
+**Progress:** `▓░░░░░░░░░ 5%` · Plot v12<br/>
+**Mood:** 🌫️ *Somewhere between "I have a plan" and "what if I change everything"*<br/>
+**Read more (not yet) →**
+
+</td>
+  </tr>
+</table>
 
 ## 🌐 Socials:
 
