@@ -4,12 +4,9 @@
 </h3>
 <p align="center"><i>Building elaborate machines so I don't have to write the next paragraph.</i></p>
 
-> 💭 *Procrastination level: expert*
-> 
 <p align="center">
   <code>status: </code><br/>
-  <code>writing... ❌</code><br/>
-  <code>building a website instead... ✅</code>
+  <code>writing ❌ building a website instead ✅</code>
 </p>
 
 ## 🖊 Currently Writing
