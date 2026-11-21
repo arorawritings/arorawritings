@@ -18,7 +18,7 @@
 ### 🤖 Brotherhood
 `Historical Steampunk` · `2nd attempt drafting`<br/><br/>
 **Progress:** `▓▓▓░░░░░░░ 30%` · Chapter 7 · 19k words<br/>
-**Mood:** 🔧 *Fueled by tiredness, sad songs and discord sessions*<br/>
+**Mood:** *Fueled by tiredness, sad songs and discord sessions*<br/>
 **[Read more →](https://ellipsus.com/profile/AcCCgqIG4jorDuCivk4Ca)**
 
 </td>
@@ -27,7 +27,7 @@
 ### 🎨 Kanvas Kelabu
 `Historical Fantasy` · `Re-plotting, attempt #12`<br/><br/>
 **Progress:** `▓░░░░░░░░░ 5%` · Plot v12<br/>
-**Mood:** 🌫️ *Somewhere between "I have a plan" and "what if I change everything"*<br/>
+**Mood:** *Somewhere between "I have a plan" and "what if I change everything"*<br/>
 **Read more (not yet) →**
 
 </td>
@@ -48,16 +48,14 @@
 
 ## 📊 GitHub Stats:
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.shion.dev/api?username=arorawritings&theme=default&hide_border=false&include_all_commits=false&count_private=false" /></td>
-      <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arorawritings&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
-    </tr>
-  </table>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=arorawritings&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arorawritings&theme=default&hide_border=true&layout=compact" />
+</p>
 
-  <img src="https://streak-stats.demolab.com/?user=arorawritings&theme=default&hide_border=false" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=arorawritings&theme=default&hide_border=true" />
+</p>
 
 ## 💻 Tech Stack:
 
