@@ -1,10 +1,22 @@
 <h1 align="center">Hi 👋, I'm Arora</h1>
 <h3 align="center">a writer who procrastinates writing by making websites</h3>
 
-## 🔭 The story I am currently working on
+## 🔭 Currently Writing
 
-### Project: Brotherhood
-### Kanvas Kelabu
+<table>
+  <tr>
+    <td><b>📖 Brotherhood</b><br/>
+      <i>[One-line hook: who, what, what's at stake]</i><br/><br/>
+      <code>Genre: ____</code> · <code>Status: Drafting ✍️</code>
+    </td>
+    <td><b>🎨 Kanvas Kelabu</b><br/>
+      <i>[One-line hook, maybe something about the "grey canvas" idea]</i><br/><br/>
+      <code>Genre: ____</code> · <code>Status: Plotting 🧠</code>
+    </td>
+  </tr>
+</table>
+
+> 💭 *Progress: Chapter 7 · Word count: 19k · Procrastination level: expert*
 
 ## 🌐 Socials:
 
