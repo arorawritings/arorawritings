@@ -23,12 +23,12 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.shion.dev/api?username=aisyah-rusdi&theme=default&hide_border=false&include_all_commits=false&count_private=false" /></td>
-      <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=aisyah-rusdi&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+      <td><img src="https://github-readme-stats.shion.dev/api?username=arorawritings&theme=default&hide_border=false&include_all_commits=false&count_private=false" /></td>
+      <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arorawritings&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
     </tr>
   </table>
 
-  <img src="https://streak-stats.demolab.com/?user=aisyah-rusdi&theme=default&hide_border=false" />
+  <img src="https://streak-stats.demolab.com/?user=arorawritings&theme=default&hide_border=false" />
 </div>
 
 ## 💻 Tech Stack:
