@@ -15,7 +15,7 @@
   <tr>
     <td width="50%" valign="top">
 
-### 🤖 Brotherhood
+### 🤖 Project: Brotherhood
 `Historical Steampunk` · `2nd attempt drafting`<br/><br/>
 **Progress:** `▓▓▓░░░░░░░ 30%` · Chapter 7 · 19k words<br/>
 **Mood:** *Fueled by tiredness, sad songs and discord sessions*<br/>
