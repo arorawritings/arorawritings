@@ -1,33 +1,32 @@
-<h1 align="center">⚙️ Arora ⚙️</h1>
+<h1 align="center"> .｡*ﾟ+.*.｡ Arora　ﾟ+..｡*ﾟ+</h1>
 <h3 align="center">
   Writer by trade, web-tinkerer by avoidance
 </h3>
 <p align="center"><i>Building elaborate machines so I don't have to write the next paragraph.</i></p>
 
+> 💭 *Procrastination level: expert*
+> 
 <p align="center">
-  <code>status: writing... ❌</code><br/>
-  <code>status: building a website instead... ✅</code>
+  <code>status: </code><br/>
+  <code>writing... ❌</code><br/>
+  <code>building a website instead... ✅</code>
 </p>
 
 ## 🖊 Currently Writing
 
 ### 🤖 Brotherhood
-`Historical Steampunk` · `2nd attempt drafting`
-
-**Progress:** `▓▓░░░░░░░░ 30%` · Chapter 7 · 19k words
-**Mood:** 🔧 *Fueled by tiredness, sad songs and discord sessions*
+`Historical Steampunk` · `2nd attempt drafting` <br/><br/>
+**Progress:** `▓▓░░░░░░░░ 30%` · Chapter 7 · 19k words <br/>
+**Mood:** 🔧 *Fueled by tiredness, sad songs and discord sessions*<br/>
 **[Read more →]([https://your-link-here](https://ellipsus.com/profile/AcCCgqIG4jorDuCivk4Ca))**
 
 ---
 
 ### 🎨 Kanvas Kelabu
-`Historical Fantasy` · `Re-plotting, attempt #12`
-
-**Progress:** `▓░░░░░░░░░ 5%` · Plot v12
-**Mood:** 🌫️ *Somewhere between "I have a plan" and "what if I change everything"*
+`Historical Fantasy` · `Re-plotting, attempt #12` <br/><br/>
+**Progress:** `▓░░░░░░░░░ 5%` · Plot v12 <br/>
+**Mood:** 🌫️ *Somewhere between "I have a plan" and "what if I change everything"* <br/>
 **[Read more (cannot yet) →]**
-
-> 💭 *Procrastination level: expert*
 
 ## 🌐 Socials:
 
