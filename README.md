@@ -48,14 +48,16 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=arorawritings&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=arorawritings&theme=default&hide_border=true&layout=compact" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.shion.dev/api?username=arorawritings&theme=default&hide_border=false&include_all_commits=false&count_private=false" /></td>
+      <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=arorawritings&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></td>
+    </tr>
+  </table>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=arorawritings&theme=default&hide_border=true" />
-</p>
+  <img src="https://streak-stats.demolab.com/?user=arorawritings&theme=default&hide_border=false" />
+</div>
 
 ## 💻 Tech Stack:
 
